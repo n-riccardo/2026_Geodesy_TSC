@@ -16,6 +16,3 @@ Brendan Crowell (Ohio State University) <br>
 Jack Loveless (Smith College)<br>
 Kaj Johnson (Indiana University Bloomington) <br>
 Tim Melbourne (Central Washington University) <br>
-
-```{tableofcontents}
-```
